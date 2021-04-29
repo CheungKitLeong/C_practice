@@ -1,6 +1,6 @@
 # Questions Bank
 ***
-### getthesingle.c
+#### getthesingle.c
 You are given an array of integers where every element appears twice except for one. Find the value of that single one. Note that the array is non-empty.  
 **Input**  
 The input consists of the number of test cases, m (1 <=m <= 1000), in the first line and followed by m test cases.  
@@ -21,3 +21,4 @@ The output should be m lines. Each line corresponds to the value of that singlen
 **Follow up**  
 Could you implement a solution with a linear time complexity and without using extra memory?  
 ***
+Updating...
