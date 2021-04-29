@@ -1,5 +1,5 @@
 # Questions Bank
----
+***
 ### getthesingle.c
 You are given an array of integers where every element appears twice except
 for one. Find the value of that single one. Note that the array is non-empty.
@@ -26,4 +26,4 @@ number in each array.
 **Follow up**
 Could you implement a solution with a linear time complexity and without using
 extra memory?
----
+***
