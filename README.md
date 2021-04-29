@@ -1,3 +1,3 @@
 # C_practice
 
-Recorded all the pracitce problems are done in C.
+Recorded all the pracitce problems I have done in C.
